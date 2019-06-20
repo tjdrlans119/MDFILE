@@ -30,5 +30,4 @@
  ### COMMENT > dd
 
  ## test
-  ### A:
-  > a, b
+  **A:**  > a, b
